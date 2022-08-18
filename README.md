@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @AniketAtram
-- 👀 I’m interested in Full Stack Web Development
+- 👀 I’m a Full Stack Web Developer working at Prompt Cloud
 - 🌱 I’m currently learning Ruby on Rails
 - 💞️ I’m looking to collaborate on Web dev projects
-- 📫 How to reach me ..
 
 <!---
 AniketAtram/AniketAtram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
